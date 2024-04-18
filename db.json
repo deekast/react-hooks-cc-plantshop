@@ -1,12 +1,6 @@
 {
   "plants": [
     {
-      "id": 1,
-      "name": "Aloe",
-      "image": "./images/aloe.jpg",
-      "price": 15.99
-    },
-    {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
@@ -17,12 +11,6 @@
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
       "price": 5.99
-    },
-    {
-      "id": 4,
-      "name": "Pothos",
-      "image": "./images/pothos.jpg",
-      "price": 12.11
     },
     {
       "id": 5,
@@ -37,10 +25,10 @@
       "price": 25.99
     },
     {
-      "id": 7,
-      "name": "Fiddle Leaf Fig",
-      "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "name": "sadf",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.modernfarmhouseeats.com%2Fchili-lime-shrimp-ramen%2F&psig=AOvVaw3qwsQRHFoA5AqEv8L_Poa1&ust=1711741546794000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjg0Kjcl4UDFQAAAAAdAAAAABAH",
+      "price": "0.03",
+      "id": 8
     }
   ]
 }
